@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faqs_App/static/css/main.a709d964.css",
+    "main.js": "/Faqs_App/static/js/main.28a90e45.js",
+    "static/js/787.0c3f432a.chunk.js": "/Faqs_App/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Faqs_App/index.html",
+    "main.a709d964.css.map": "/Faqs_App/static/css/main.a709d964.css.map",
+    "main.28a90e45.js.map": "/Faqs_App/static/js/main.28a90e45.js.map",
+    "787.0c3f432a.chunk.js.map": "/Faqs_App/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a709d964.css",
+    "static/js/main.28a90e45.js"
+  ]
+}
